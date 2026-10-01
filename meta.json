@@ -1,0 +1,25 @@
+{
+  "repo": "ibm-spss-statistics-pro",
+  "product": "IBM SPSS Statistics Pro",
+  "kind": "analytics",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "statistics-software",
+  "topics": [
+    "ibm-spss-statistics-pro",
+    "ibm-desktop",
+    "ibm-windows",
+    "data-analysis",
+    "statistical-modeling",
+    "econometrics",
+    "research-tools",
+    "desktop-analytics",
+    "windows-statistics",
+    "regression-analysis",
+    "data-visualization",
+    "survey-analysis"
+  ],
+  "site": "zentool.art"
+}
